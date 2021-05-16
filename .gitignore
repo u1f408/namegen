@@ -1,0 +1,4 @@
+/vendor
+/cache
+.phpunit.result.cache
+*.sqlite3
